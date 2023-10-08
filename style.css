@@ -1,0 +1,28 @@
+
+
+.header{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./Img/ba1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 800;
+}
+.btn-bg{
+   background-color: rgb(145, 190, 73); 
+   box-shadow: 3px 3px 5px rgb(187, 181, 181);
+   color: white;
+}
+.btn:hover{
+    background-color: rgb(97, 196, 118); 
+    box-shadow: 5px 5px 10px rgb(114, 104, 104);
+    color: white;
+}
+.bg-footer{
+    background-color: rgb(15, 63, 74);
+ 
+}
+
+.a-reset{
+    text-decoration: none;
+    color: white;
+    font-size: 11px;
+}
