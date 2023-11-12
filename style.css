@@ -27,3 +27,18 @@
     color: white;
     font-size: 11px;
 }
+
+#cards{
+    background-color: rgb(248, 248, 248); 
+    box-shadow: 5px 5px 10px rgb(114, 104, 104);
+    /* color: white; */
+}
+
+#cards:hover{
+    background-color: rgb(247, 250, 251); 
+    box-shadow: 15px 15px 30px rgb(114, 104, 104);
+    /* color: white; */
+}
+h5{
+    background-color: rgb(144, 179, 206);
+}
